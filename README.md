@@ -89,4 +89,4 @@ This work demonstrates that **temporal photometric variation alone** can effecti
 
 Co-worker : Moonseung choi
 📧 cbhoo3@smail.kongju.ac.kr
----
+
