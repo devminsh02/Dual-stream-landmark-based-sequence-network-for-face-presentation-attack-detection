@@ -88,5 +88,3 @@ This work demonstrates that **temporal photometric variation alone** can effecti
 📧 devminsh02@smail.kongju.ac.kr
 
 ---
-
-## 🏷 Keywords
