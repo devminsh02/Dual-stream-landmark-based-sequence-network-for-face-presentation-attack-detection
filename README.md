@@ -46,7 +46,7 @@ which contains replay and printed attack videos recorded with multiple devices.
 
 ---
 
-<h3>📈 Experimental Results</h3>
+<h3>📈 Architecture & Experimental Results</h3>
 
 <img width="1920" height="850" alt="Image" src="https://github.com/user-attachments/assets/814b6db2-7faa-4d6a-a196-f0764c338ead" />
 
