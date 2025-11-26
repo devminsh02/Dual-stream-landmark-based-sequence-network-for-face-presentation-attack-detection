@@ -51,6 +51,8 @@ which contains replay and printed attack videos recorded with multiple devices.
 <img width="1920" height="850" alt="Image" src="https://github.com/user-attachments/assets/814b6db2-7faa-4d6a-a196-f0764c338ead" />
 
 
+
+
 | Method | Accuracy | Precision | Recall | F1 Score | ROC AUC |
 |--------|-----------|------------|------------|------------|-----------|
 | Branch1 | 0.8846 | 0.8326 | 0.9692 | 0.8950 | 0.9361 |
