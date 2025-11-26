@@ -46,7 +46,7 @@ which contains replay and printed attack videos recorded with multiple devices.
 
 ---
 
-<h3>📈 Experimental ResultsM</h3>
+<h3>📈 Experimental Results</h3>
 
 | Method | Accuracy | Precision | Recall | F1 Score | ROC AUC |
 |--------|-----------|------------|------------|------------|-----------|
