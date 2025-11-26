@@ -85,8 +85,10 @@ This work demonstrates that **temporal photometric variation alone** can effecti
 > *Dual-Stream Landmark-Based Sequence Network for Face Presentation Attack Detection*
 
 📩 **If you would like to read the full research paper, please email me and I will share the PDF directly.**  
+
+Author: Sun-hong Min
 📧 devminsh02@smail.kongju.ac.kr
 
-Co-worker : Moonseung choi
+co-author : Moonseung choi
 📧 cbhoo3@smail.kongju.ac.kr
 
