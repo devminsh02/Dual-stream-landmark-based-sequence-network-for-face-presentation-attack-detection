@@ -1,5 +1,7 @@
 <h1>🧠 Dual-Stream Landmark-Based Face Presentation Attack Detection (PAD)</h1>
 
+Paper: https://ieeexplore.ieee.org/document/11257737
+
 **Sun-hong Min, Moonseung Choi, and Yonggang Kim**  
 **The 4th International Conference on Mobile • Military • Maritime IT Convergence (ICMIC 2025)**  
 Kongju National University, Republic of Korea
@@ -89,11 +91,10 @@ This work demonstrates that **temporal photometric variation alone** can effecti
 > **Submitted to ICMIC 2025**  
 > *Dual-Stream Landmark-Based Sequence Network for Face Presentation Attack Detection*
 
-📩 **If you would like to read the full research paper, please email me and I will share the PDF directly.**  
+
 
 Author: Sun-hong Min
 📧 devminsh02@smail.kongju.ac.kr
-
 Co-Author : Moonseung choi
 📧 cbhoo3@smail.kongju.ac.kr
 
